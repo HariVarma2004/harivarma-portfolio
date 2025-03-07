@@ -5,17 +5,17 @@ const educationData = [
   {
     year: "2022 - Present",
     degree: "B.E Computer Science and Engineering",
-    institution: "[College Name]",
+    institution: "[Angel collage of engineering tecnology]",
   },
   {
     year: "2020 - 2022",
     degree: "Higher Secondary Education",
-    institution: "[School Name]",
+    institution: "[Jai Saradha Matirc Higher Secondary school]",
   },
   {
     year: "2019 - 2020",
     degree: "Secondary School Education",
-    institution: "[School Name]",
+    institution: "[Jai Saradha Matirc Higher Secondary school]",
   },
 ];
 
